@@ -1,7 +1,7 @@
 
 **Overview**
 
-This repository contains the code and resources for a Construction Site Management System, which aims to enhance the efficiency and accuracy of operations in the construction industry. The system integrates automation and data analytics to address critical industry challenges, with the following key features:
+This repository contains the resources for a Construction Site Management System, which aims to enhance the efficiency and accuracy of operations in the construction industry. The system integrates automation and data analytics to address critical industry challenges, with the following key features:
 
 Equipment & Asset Utilization Monitoring
 Productivity Analysis
